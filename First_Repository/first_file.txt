@@ -1,4 +1,4 @@
-This is a readme file
+This looks like a readme text file
 We are in Git 101 session
 We are writing another line or sentence
 I am changing in first file
